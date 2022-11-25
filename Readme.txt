@@ -43,7 +43,7 @@ Product.create(title: "Tupper para quesadillas", description: "Su material rígi
 Product.create(title: "Cuadriluch para sandwich", description: "Por ser un producto indeformable, fabricado con material rígido de alta densidad, es resistente a las ralladuras y de gran durabilidad, lo que lo hace ideal para el lunch de los niños.", price: 140)
 Pero es más fácil ahora que está bien diseñado el catálogo
 
-Novedad 26/05/2022
+Novedad
 
 Ya se puede abrir la pagina en internet a trabvés del link
 "www.shutko.herokuapp.com"
